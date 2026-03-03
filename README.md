@@ -19,7 +19,7 @@ We evaluate our method on the Mapillary Geo-Localization (MGL) dataset. For deta
 To achieve robust POI recognition, the object detection model requires diverse training data. We augmented our training set using street-level images acquired from **Google Maps (Google Street View)**, capturing various urban blocks, storefronts, and functional landmarks. 
 
 For the semantic POI recognition module, you can train your network using existing **YOLO** or **DETR** architectures on similar street-view data:
-* We provide a pre-trained YOLO model for immediate testing and deployment: `[Insert Link to YOLO pre-trained weights here]`
+* We provide a pre-trained YOLO model for immediate testing and deployment: `[https://doi.org/10.5281/zenodo.18833037]`
 * If you wish to construct your own dataset and train an object detection model from scratch, acquire street-level imagery from your target cities and refer to the standard training pipelines provided in the official [YOLO](https://github.com/ultralytics/yolov5) or [DETR](https://github.com/facebookresearch/detr) repositories.
 
 ### 2. Running the Localization Evaluation
