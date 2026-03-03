@@ -3,7 +3,7 @@
   <h3>Semantic Point-of-Interest Constrained Visual Localization for Autonomous Driving</h3>
 </div>
 
-![](https://github.com/CAVTEST/PoiLoc/blob/master/asset/method.jpg)
+![](https://github.com/CAVTEST/PoiLoc/blob/main/asset/method.jpg)
 
 ---
 
